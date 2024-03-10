@@ -1,0 +1,1 @@
+--weights coneslayer.pt --conf 0.54 --iou 0.50 --img-size 416 --source cone_predict.jpg
